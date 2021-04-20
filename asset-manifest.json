@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/firecrud/static/css/main.77a84cdb.chunk.css",
+    "main.js": "/firecrud/static/js/main.ccd2dea0.chunk.js",
+    "main.js.map": "/firecrud/static/js/main.ccd2dea0.chunk.js.map",
+    "runtime-main.js": "/firecrud/static/js/runtime-main.dc385ae4.js",
+    "runtime-main.js.map": "/firecrud/static/js/runtime-main.dc385ae4.js.map",
+    "static/js/2.1ffbc310.chunk.js": "/firecrud/static/js/2.1ffbc310.chunk.js",
+    "static/js/2.1ffbc310.chunk.js.map": "/firecrud/static/js/2.1ffbc310.chunk.js.map",
+    "index.html": "/firecrud/index.html",
+    "precache-manifest.1fc4ef7d3eb747935b3a4c7bc867623a.js": "/firecrud/precache-manifest.1fc4ef7d3eb747935b3a4c7bc867623a.js",
+    "service-worker.js": "/firecrud/service-worker.js",
+    "static/css/main.77a84cdb.chunk.css.map": "/firecrud/static/css/main.77a84cdb.chunk.css.map",
+    "static/js/2.1ffbc310.chunk.js.LICENSE.txt": "/firecrud/static/js/2.1ffbc310.chunk.js.LICENSE.txt",
+    "static/js/main.ccd2dea0.chunk.js.LICENSE.txt": "/firecrud/static/js/main.ccd2dea0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc385ae4.js",
+    "static/js/2.1ffbc310.chunk.js",
+    "static/css/main.77a84cdb.chunk.css",
+    "static/js/main.ccd2dea0.chunk.js"
+  ]
+}

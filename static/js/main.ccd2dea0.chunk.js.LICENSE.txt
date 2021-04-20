@@ -1,0 +1,11 @@
+//! collection - add
+
+//! collection - onSnapshot!
+
+//! firebase store
+
+//! firestore에 데이터 추가하기!
+
+//! firestore에서 데이터 가져오기!
+
+//! will stop the refresh
