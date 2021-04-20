@@ -3,14 +3,14 @@ import firebase from "firebase";
 
 // 1. initialize
 const firebaseApp = firebase.initializeApp({
-  apiKey: "FIX_ME",
-  authDomain: "todo-react-5462f.firebaseapp.com",
-  databaseURL: "https://todo-react-5462f.firebaseio.com",
-  projectId: "todo-react-5462f",
-  storageBucket: "todo-react-5462f.appspot.com",
-  messagingSenderId: "16820027693",
-  appId: "1:16820027693:web:c69edba69e12de33b993a4",
-  measurementId: "G-S6N6TSM7C4",
+  apiKey: "AIzaSyCWcGH4UY5BGJGxjgonrmnMzxJJygsP_3k",
+  authDomain: "reactcrud-58176.firebaseapp.com",
+  databaseURL: "https://reactcrud-58176-default-rtdb.firebaseio.com",
+  projectId: "reactcrud-58176",
+  storageBucket: "reactcrud-58176.appspot.com",
+  messagingSenderId: "207498026599",
+  appId: "1:207498026599:web:038e2d3265817a67553ec2",
+  measurementId: "G-1J4HWFC2F0"
 });
 
 const db = firebaseApp.firestore();
