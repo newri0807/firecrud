@@ -1,0 +1,31 @@
+.App {
+  margin: 10%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.appContainer {
+  width: 80vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.appTitle {
+}
+
+.appInput {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.add-button {
+  display: flex;
+  /* flex-direction: row; */
+}
+/* .todoList {
+  display: flex;
+  flex-direction: column;
+} */
